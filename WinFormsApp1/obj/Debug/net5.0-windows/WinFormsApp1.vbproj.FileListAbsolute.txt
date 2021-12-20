@@ -1,0 +1,16 @@
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbprojAssemblyReference.cache
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Acer\source\gamedatabases\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
